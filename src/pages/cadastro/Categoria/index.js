@@ -28,7 +28,7 @@ function CadastroCategoria() {
     setValue('nome', infosDoEvento.target.value);*/
     const { getAttribute, value } = infosDoEvento.target;
          setValue( getAttribute('name'), 
-             value
+               value
          );
    }
     return (
