@@ -1,5 +1,5 @@
 
-# BatmanFlix
+## BatmanFlix
 Projeto imersão da Alura
 
 ## :fire: Como usar
@@ -8,7 +8,7 @@ Projeto imersão da Alura
 > git clone https://github.com/JBMILHOUSE/BatmanFlix.git
 
 # Acesse a pasta do projeto qual terminal de sua preferência
-> cd event-platform 
+> cd BatmanFlix
 
 # Instalar as dependências
 > npm i ou yarn 
