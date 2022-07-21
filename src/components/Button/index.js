@@ -5,7 +5,7 @@ const Button = styled.a`
     border: 1px solid var(--white);
     box-sizing: border-box;
     cursor: pointer;
-    padding: 30px 40px;
+    padding: 20px 40px;
     font-style: normal;
     font-weight: bold;
     font-size: 16px;
